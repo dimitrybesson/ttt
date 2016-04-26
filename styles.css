@@ -1,0 +1,36 @@
+html {
+  font-family: Arial;
+}
+
+td {
+  border: 3px solid blue;
+  font-size: 100px;
+  color: lightgrey;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  cursor: crosshair;
+
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
+
+.x {
+  color: black;
+}
+
+.o {
+  color: black;
+}
